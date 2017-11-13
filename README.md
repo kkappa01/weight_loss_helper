@@ -2,6 +2,9 @@
 [//]: # (Image References)
 
 [image1]: ./motivation_func.png "Motivation Function"
+[image2]: ./Activity_level.png "Activity Level"
+[image3]: ./Calorie_intake.png "Cal Intake"
+[image4]: ./Calorie_quality.png "Cal Quality"
 
 ---
 **Introduction**
@@ -44,7 +47,10 @@ where: K_goal = (Initial_weight-Target_weight)/Target_duration
 5) satiety[t+1] = K2_calorie_intake * K2_calorie_quality
 6) Motivation[t+1] =  f((weight[t+1]- Target_weight)/Initial_weight)
 ![motivation_func.png][image1]
+
+
 Desciption:
+
 The user is likely to accept a recommendation if he had a good meal or if he is very motivated.
 
 The change is weight is straight forward based on this a calorie deficit.
@@ -76,8 +82,11 @@ Engineer better rewards
 Implement DQN
 
 
-
-
+---
+**Figures**
+![effect of activity][image2]
+![effect of calorie intake][image3]
+![effect of calorie quality][image4]
 
 
 
