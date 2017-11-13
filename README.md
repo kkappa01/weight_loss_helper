@@ -77,13 +77,15 @@ The Q-Learning algorithm in player_Q_learning.ipynb has not been able perfrom we
 
 ---
 **Next Steps**
-Determine better constants for the model.
-Engineer better rewards
-Implement DQN
+*Determine better constants for the model.
+*Engineer better rewards
+*Implement DQN
 
 
 ---
 **Figures**
+
+
 ![effect of activity][image2]
 ![effect of calorie intake][image3]
 ![effect of calorie quality][image4]
