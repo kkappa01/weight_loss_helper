@@ -17,7 +17,9 @@ The first step to achieve this is to create a simulation environment, developed 
 
 ---
 **Model**
-Disclaimer: This model is not based on real weight loss process, neither is it based on any research in the field. This is a rudimentry model, I have developed on my own to play with.
+(Disclaimer: This model is not based on real weight loss process, neither is it based on any research in the field. This is a rudimentry model, I have developed on my own to play with.)
+
+
 States:
 * weight
 * satiety (How satisfied the user is after the last meal)
